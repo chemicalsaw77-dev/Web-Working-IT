@@ -1,0 +1,1 @@
+ALTER TABLE `pm_plans` ADD `department_id` integer;

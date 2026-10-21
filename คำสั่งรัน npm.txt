@@ -1,0 +1,1 @@
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process; $env:PATH = "D:\Web-Working-IT\.tools\node-v22.11.0-win-x64;$env:PATH"; npm run dev
